@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>👑🌸 Hiya, I'm Envvy! 🌸👑</h1>
+  <h1>👑🌸 Hiya, I'm Evi! 🌸👑</h1>
   <p><i>Software developer, game creator, and coding princess! (ﾉ◕ヮ◕)ﾉ*:･ﾟ✧</i></p>
 
 
